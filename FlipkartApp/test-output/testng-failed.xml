@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FlipKart.com Test]">
+  <listeners>
+    <listener class-name="com.flipkart.listeners.MyTrnasformer"/>
+    <listener class-name="com.flipkart.report.ExtentReporterNG"/>
+    <listener class-name="com.flipkart.listeners.Listener"/>
+  </listeners>
+  <test name="LoginPageTest(failed)">
+    <classes>
+      <class name="com.flipkart.tests.SearchPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.SearchPageTest -->
+      <class name="com.flipkart.tests.CartPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.CartPageTest -->
+      <class name="com.flipkart.tests.ProductpageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.ProductpageTest -->
+      <class name="com.flipkart.tests.HomepageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.HomepageTest -->
+      <class name="com.flipkart.tests.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="LoginPageVerifyLogin"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- LoginPageTest(failed) -->
+  <test name="HomePageTest(failed)">
+    <classes>
+      <class name="com.flipkart.tests.SearchPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.SearchPageTest -->
+      <class name="com.flipkart.tests.CartPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.CartPageTest -->
+      <class name="com.flipkart.tests.ProductpageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.ProductpageTest -->
+      <class name="com.flipkart.tests.HomepageTest">
+        <methods>
+          <include name="searchProductFromHomepage"/>
+          <include name="setUp"/>
+          <include name="verifyHomepageCorrectSignIn"/>
+          <include name="verifyHomePageTitileTest"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.HomepageTest -->
+      <class name="com.flipkart.tests.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- HomePageTest(failed) -->
+  <test name="SearchPageTest(failed)">
+    <classes>
+      <class name="com.flipkart.tests.SearchPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="countProductsOnPageinSearchPage"/>
+          <include name="clickonProductinSearchPage"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.SearchPageTest -->
+      <class name="com.flipkart.tests.CartPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.CartPageTest -->
+      <class name="com.flipkart.tests.ProductpageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.ProductpageTest -->
+      <class name="com.flipkart.tests.HomepageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.HomepageTest -->
+      <class name="com.flipkart.tests.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- SearchPageTest(failed) -->
+  <test name="ProductpageTest(failed)">
+    <classes>
+      <class name="com.flipkart.tests.SearchPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.SearchPageTest -->
+      <class name="com.flipkart.tests.CartPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.CartPageTest -->
+      <class name="com.flipkart.tests.ProductpageTest">
+        <methods>
+          <include name="verifyCartAdditionfromProductPage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.ProductpageTest -->
+      <class name="com.flipkart.tests.HomepageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.HomepageTest -->
+      <class name="com.flipkart.tests.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- ProductpageTest(failed) -->
+  <test name="CartpageTest(failed)">
+    <classes>
+      <class name="com.flipkart.tests.SearchPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.SearchPageTest -->
+      <class name="com.flipkart.tests.CartPageTest">
+        <methods>
+          <include name="removeFromCart"/>
+          <include name="ScreenshotCartPage"/>
+          <include name="setUp"/>
+          <include name="logoutfromAppinCart"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.CartPageTest -->
+      <class name="com.flipkart.tests.ProductpageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.ProductpageTest -->
+      <class name="com.flipkart.tests.HomepageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.HomepageTest -->
+      <class name="com.flipkart.tests.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- CartpageTest(failed) -->
+</suite> <!-- Failed suite [FlipKart.com Test] -->

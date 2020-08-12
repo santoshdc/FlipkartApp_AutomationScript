@@ -1,0 +1,666 @@
+19:28:14.364 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:28:14.371 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:28:14.407 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:28:14.407 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:28:14.416 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:28:14.417 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:28:14.424 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:28:14.426 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:28:14.443 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:28:14.449 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:28:14.504 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+19:28:14.504 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+19:28:14.504 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:28:14.505 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+19:28:14.505 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:28:14.505 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+19:28:18.850 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+19:28:18.853 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+19:28:18.854 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+19:28:18.854 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:18.861 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+19:28:18.861 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:18.951 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+19:28:18.951 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+19:28:18.951 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:28:18.951 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+19:28:18.951 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:28:18.951 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+19:28:22.411 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+19:28:22.415 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+19:28:22.416 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:22.427 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+19:28:22.433 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+19:28:22.433 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:22.443 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+19:28:22.448 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+19:28:22.449 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:22.527 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+19:28:22.527 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:28:22.527 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+19:28:22.527 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:28:22.527 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+19:28:25.343 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+19:28:25.345 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+19:28:25.346 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:25.361 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+19:28:25.388 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+19:28:25.389 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:25.539 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+19:28:25.539 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+19:28:25.539 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:28:25.540 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+19:28:25.540 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:28:25.540 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+19:28:30.643 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+19:28:30.646 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+19:28:30.646 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:30.702 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+19:28:30.702 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+19:28:30.702 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:28:30.703 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+19:28:30.703 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:28:30.703 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+19:28:34.931 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+19:28:34.933 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+19:28:34.933 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:34.951 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+19:28:34.953 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+19:28:34.953 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:34.973 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+19:28:34.976 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+19:28:34.976 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:28:35.687 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+19:28:36.283 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+19:35:33.387 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:35:33.396 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:35:33.426 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:35:33.426 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:35:33.435 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:35:33.435 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:35:33.443 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:35:33.444 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:35:33.451 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+19:35:33.452 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+19:35:33.518 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+19:35:33.518 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+19:35:33.518 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:35:33.520 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+19:35:33.520 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:35:33.520 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+19:35:36.378 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+19:35:36.384 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+19:35:36.385 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+19:35:36.385 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:36.390 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+19:35:36.390 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:36.434 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+19:35:36.434 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+19:35:36.435 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:35:36.436 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+19:35:36.436 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:35:36.436 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+19:35:37.022 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+19:35:37.026 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+19:35:37.026 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:37.042 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+19:35:37.047 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+19:35:37.047 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:37.054 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+19:35:37.058 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+19:35:37.058 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:37.102 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+19:35:37.102 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:35:37.102 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+19:35:37.102 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:35:37.102 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+19:35:37.725 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+19:35:37.734 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+19:35:37.734 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:37.757 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+19:35:37.770 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+19:35:37.770 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:37.813 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+19:35:37.813 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+19:35:37.813 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:35:37.813 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+19:35:37.813 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:35:37.813 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+19:35:38.396 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+19:35:38.399 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+19:35:38.399 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:38.446 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+19:35:38.446 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+19:35:38.446 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+19:35:38.446 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+19:35:38.456 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+19:35:38.456 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+19:35:39.053 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+19:35:39.055 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+19:35:39.056 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:39.076 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+19:35:39.082 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+19:35:39.083 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:39.103 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+19:35:39.106 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+19:35:39.106 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+19:35:39.741 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+19:35:40.286 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+20:34:53.711 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:34:53.717 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:34:53.747 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:34:53.748 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:34:53.760 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:34:53.761 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:34:53.768 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:34:53.770 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:34:53.776 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:34:53.777 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:34:53.833 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+20:34:53.833 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+20:34:53.833 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:34:53.834 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+20:34:53.834 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:34:53.834 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+20:34:56.017 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:34:56.019 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:34:56.020 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:34:56.026 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:56.029 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:34:56.029 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:56.098 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+20:34:56.098 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+20:34:56.099 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:34:56.099 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+20:34:56.099 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:34:56.099 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+20:34:56.696 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+20:34:56.701 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+20:34:56.702 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:56.726 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+20:34:56.729 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+20:34:56.730 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:56.741 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+20:34:56.745 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+20:34:56.746 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:56.786 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+20:34:56.788 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:34:56.788 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+20:34:56.788 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:34:56.789 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+20:34:57.503 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+20:34:57.508 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+20:34:57.509 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:57.639 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+20:34:57.663 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+20:34:57.663 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:57.751 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+20:34:57.752 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+20:34:57.752 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:34:57.752 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+20:34:57.752 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:34:57.752 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+20:34:58.358 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+20:34:58.362 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+20:34:58.362 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:58.443 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+20:34:58.443 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+20:34:58.444 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:34:58.444 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=FF
+20:34:58.444 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:34:58.444 [main] INFO  com.flipkart.base.Driver - Loading firefox driver
+20:34:59.067 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+20:34:59.070 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+20:34:59.070 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:59.120 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+20:34:59.123 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+20:34:59.124 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:59.228 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+20:34:59.235 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+20:34:59.236 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:34:59.544 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+20:35:00.079 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+20:35:22.555 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:35:22.562 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:35:22.596 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:35:22.597 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:35:22.605 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:35:22.606 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:35:22.614 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:35:22.615 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:35:22.622 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:35:22.623 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:35:22.670 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+20:35:22.670 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+20:35:22.670 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:35:22.671 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:35:22.671 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:35:22.671 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:35:36.994 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:35:37.001 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:35:37.001 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:35:37.001 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:37.009 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:35:37.009 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:37.064 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+20:35:37.064 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+20:35:37.064 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:35:37.064 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:35:37.064 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:35:37.064 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:35:39.834 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+20:35:39.838 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+20:35:39.838 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:39.847 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+20:35:39.851 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+20:35:39.852 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:39.903 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+20:35:39.908 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+20:35:39.908 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:40.028 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+20:35:40.028 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:35:40.028 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:35:40.028 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:35:40.029 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:35:43.308 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+20:35:43.313 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+20:35:43.313 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:43.327 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+20:35:43.331 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+20:35:43.331 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:43.430 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+20:35:43.430 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+20:35:43.431 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:35:43.431 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:35:43.434 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:35:43.434 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:35:47.350 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+20:35:47.352 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+20:35:47.365 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:47.430 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+20:35:47.430 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+20:35:47.430 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:35:47.430 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:35:47.430 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:35:47.434 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:35:51.443 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+20:35:51.445 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+20:35:51.446 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:51.458 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+20:35:51.460 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+20:35:51.460 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:51.484 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+20:35:51.488 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+20:35:51.488 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:35:52.015 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+20:35:53.146 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+20:38:33.803 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:38:33.808 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:38:33.840 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:38:33.841 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:38:33.850 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:38:33.851 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:38:33.858 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:38:33.859 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:38:33.866 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:38:33.867 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:38:33.917 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+20:38:33.917 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+20:38:33.917 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:38:33.918 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:38:33.918 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:38:33.918 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:38:38.372 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:38:38.376 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:38:38.377 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:38:38.378 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:38.385 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:38:38.385 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:38.552 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+20:38:38.553 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+20:38:38.553 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:38:38.553 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:38:38.553 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:38:38.553 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:38:41.422 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+20:38:41.425 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+20:38:41.426 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:41.436 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+20:38:41.439 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+20:38:41.440 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:41.477 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+20:38:41.485 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+20:38:41.486 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:41.588 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+20:38:41.588 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:38:41.588 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:38:41.588 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:38:41.588 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:38:46.870 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+20:38:46.873 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+20:38:46.873 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:46.884 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+20:38:46.891 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+20:38:46.894 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:46.952 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+20:38:46.952 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+20:38:46.952 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:38:46.952 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:38:46.953 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:38:46.953 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:38:51.136 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+20:38:51.144 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+20:38:51.144 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:51.198 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+20:38:51.199 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+20:38:51.199 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:38:51.199 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:38:51.199 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:38:51.199 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:38:55.795 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+20:38:55.797 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+20:38:55.797 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:55.814 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+20:38:55.816 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+20:38:55.816 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:55.834 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+20:38:55.837 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+20:38:55.837 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:38:57.211 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+20:38:57.981 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+20:40:07.772 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:40:07.779 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:40:07.810 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:40:07.811 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:40:07.820 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:40:07.821 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:40:07.827 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:40:07.828 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:40:07.834 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:40:07.835 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:40:07.888 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+20:40:07.888 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+20:40:07.888 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:40:07.889 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:40:07.889 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:40:07.889 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:40:12.797 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:40:12.800 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:40:12.801 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:40:12.802 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:12.811 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:40:12.811 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:12.903 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+20:40:12.903 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+20:40:12.904 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:40:12.904 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:40:12.904 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:40:12.904 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:40:15.721 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+20:40:15.724 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+20:40:15.724 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:15.732 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+20:40:15.736 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+20:40:15.736 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:15.745 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+20:40:15.748 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+20:40:15.748 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:15.838 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+20:40:15.839 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:40:15.839 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:40:15.839 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:40:15.839 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:40:20.462 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+20:40:20.464 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+20:40:20.465 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:20.484 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+20:40:20.489 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+20:40:20.489 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:20.650 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+20:40:20.650 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+20:40:20.652 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:40:20.652 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:40:20.654 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:40:20.654 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:40:24.661 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+20:40:24.664 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+20:40:24.664 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:24.754 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+20:40:24.754 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+20:40:24.754 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:40:24.755 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:40:24.755 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:40:24.755 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:40:30.702 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+20:40:30.704 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+20:40:30.704 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:30.719 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+20:40:30.722 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+20:40:30.722 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:30.737 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+20:40:30.741 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+20:40:30.741 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:40:31.639 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+20:40:32.619 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+20:44:28.827 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:44:28.834 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:44:28.869 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:44:28.869 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:44:28.878 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:44:28.879 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:44:28.888 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:44:28.889 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:44:28.895 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:44:28.897 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:44:28.957 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+20:44:28.957 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+20:44:28.957 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:44:28.973 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:44:28.973 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:44:28.973 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:44:34.402 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:44:34.405 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:44:34.405 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:44:34.406 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:34.412 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:44:34.412 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:34.493 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+20:44:34.493 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+20:44:34.493 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:44:34.494 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:44:34.494 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:44:34.494 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:44:37.162 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+20:44:37.166 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+20:44:37.166 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:37.175 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+20:44:37.178 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+20:44:37.178 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:37.190 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+20:44:37.193 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+20:44:37.194 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:37.310 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+20:44:37.310 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:44:37.310 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:44:37.311 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:44:37.311 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:44:40.865 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+20:44:40.875 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+20:44:40.876 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:40.907 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+20:44:40.911 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+20:44:40.912 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:41.015 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+20:44:41.015 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+20:44:41.015 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:44:41.015 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:44:41.015 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:44:41.016 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:44:44.981 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+20:44:44.986 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+20:44:44.987 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:45.082 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+20:44:45.083 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+20:44:45.088 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:44:45.090 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:44:45.090 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:44:45.090 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:44:49.528 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+20:44:49.530 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+20:44:49.531 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:49.545 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+20:44:49.548 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+20:44:49.548 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:49.571 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+20:44:49.593 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+20:44:49.593 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:44:50.394 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+20:44:51.401 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+20:45:43.137 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:45:43.144 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:45:43.183 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:45:43.184 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:45:43.195 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:45:43.196 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:45:43.206 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:45:43.207 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:45:43.215 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:45:43.216 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:45:43.278 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+20:45:43.278 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+20:45:43.278 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:45:43.279 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:45:43.279 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:45:43.296 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:45:47.700 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:45:47.704 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:45:47.705 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:45:47.705 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:47.712 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:45:47.712 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:47.808 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+20:45:47.809 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+20:45:47.809 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:45:47.809 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:45:47.809 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:45:47.809 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:45:50.416 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+20:45:50.420 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+20:45:50.421 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:50.429 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+20:45:50.432 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+20:45:50.433 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:50.442 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+20:45:50.446 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+20:45:50.446 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:50.533 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+20:45:50.533 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:45:50.533 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:45:50.535 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:45:50.535 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:45:54.055 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+20:45:54.059 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+20:45:54.059 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:54.101 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+20:45:54.129 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+20:45:54.136 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:54.258 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+20:45:54.259 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+20:45:54.259 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:45:54.259 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:45:54.259 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:45:54.259 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:45:57.387 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+20:45:57.390 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+20:45:57.392 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:45:57.422 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+20:45:57.422 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+20:45:57.423 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:45:57.424 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:45:57.424 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:45:57.424 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:46:00.784 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+20:46:00.786 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+20:46:00.786 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:46:00.803 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+20:46:00.805 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+20:46:00.806 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:46:00.820 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+20:46:00.823 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+20:46:00.823 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:46:01.374 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+20:46:01.953 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
+20:51:02.651 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:51:02.660 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:51:02.720 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:51:02.721 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:51:02.735 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:51:02.736 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:51:02.750 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:51:02.751 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:51:02.763 [main] INFO  com.flipkart.base.Driver - Reading property file.........
+20:51:02.767 [main] INFO  com.flipkart.base.Driver - Property file loaded successfully!
+20:51:02.832 [main] INFO  com.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+20:51:02.832 [main] INFO  com.flipkart.tests.LoginPageTest - Initializing Drivers
+20:51:02.832 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:51:02.833 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:51:02.833 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:51:02.848 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:51:07.195 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:51:07.198 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+20:51:07.199 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:51:07.199 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:07.206 [main] INFO  com.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+20:51:07.207 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:07.305 [main] INFO  com.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+20:51:07.306 [main] INFO  com.flipkart.tests.HomepageTest - Initializing Drivers
+20:51:07.306 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:51:07.306 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:51:07.307 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:51:07.307 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:51:09.143 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+20:51:09.151 [main] INFO  com.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+20:51:09.151 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:09.160 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+20:51:09.163 [main] INFO  com.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+20:51:09.163 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:09.172 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+20:51:09.177 [main] INFO  com.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+20:51:09.177 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:09.354 [main] INFO  com.flipkart.tests.SearchPageTest - Initializing Drivers
+20:51:09.354 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:51:09.354 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:51:09.354 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:51:09.354 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:51:11.347 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+20:51:11.354 [main] INFO  com.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+20:51:11.355 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:11.376 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+20:51:11.386 [main] INFO  com.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+20:51:11.386 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:11.445 [main] INFO  com.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+20:51:11.445 [main] INFO  com.flipkart.tests.ProductpageTest - Initializing Drivers
+20:51:11.445 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:51:11.445 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:51:11.446 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:51:11.446 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:51:13.618 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+20:51:13.623 [main] INFO  com.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+20:51:13.623 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:13.659 [main] INFO  com.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+20:51:13.659 [main] INFO  com.flipkart.tests.CartPageTest - Initializing Drivers
+20:51:13.660 [main] INFO  com.flipkart.base.Driver - Getting browser from property file
+20:51:13.660 [main] INFO  com.flipkart.base.OsPath - Browser to initialize=chrome
+20:51:13.660 [main] INFO  com.flipkart.base.OsPath - Operating system found : WINDOWS
+20:51:13.660 [main] INFO  com.flipkart.base.Driver - Loading ChromeDriver
+20:51:15.686 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+20:51:15.688 [main] INFO  com.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+20:51:15.688 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:15.707 [main] INFO  com.flipkart.listeners.Listener - removeFromCart Started! 
+20:51:15.715 [main] INFO  com.flipkart.listeners.Listener - removeFromCarttest skipped! 
+20:51:15.716 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:15.739 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+20:51:15.745 [main] INFO  com.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+20:51:15.745 [main] INFO  com.flipkart.listeners.Listener - Retrying...........
+20:51:16.219 [main] INFO  com.flipkart.report.ExtentReporterNG - Creating Extent Report...
+20:51:16.831 [main] INFO  com.flipkart.report.ExtentReporterNG - Report created!
